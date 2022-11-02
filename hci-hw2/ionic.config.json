@@ -1,0 +1,7 @@
+{
+  "name": "hci-hw2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
